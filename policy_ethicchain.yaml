@@ -1,0 +1,17 @@
+# EthicChain + Aegis Layer (policy)
+version: 1
+aegis:
+  ethic: care
+  vigilance: high
+  public_good: true
+compliance:
+  rgpd: true
+  ai_act: true
+  iso_42001: true
+controls:
+  rollback_guard: "ΔM11.3"
+  logging: merkle_hint
+  pii_mask: true
+zdm:
+  hardcore_persist: true
+  resonant_cache: true
