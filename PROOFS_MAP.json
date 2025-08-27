@@ -1,0 +1,125 @@
+{
+  "generated_at": "2025-08-27",
+  "proofs": [
+    {
+      "file": "GOVERNANCE.md",
+      "tags": [
+        "governance",
+        "autocritique"
+      ]
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "tags": [
+        "community",
+        "process"
+      ]
+    },
+    {
+      "file": "RISK_REGISTER.md",
+      "tags": [
+        "risk",
+        "audit"
+      ]
+    },
+    {
+      "file": "SECURITY_threat_model.md",
+      "tags": [
+        "security",
+        "threats"
+      ]
+    },
+    {
+      "file": "SECURITY_privacy.md",
+      "tags": [
+        "privacy",
+        "rgpd"
+      ]
+    },
+    {
+      "file": "ai_act_mapping.md",
+      "tags": [
+        "ai_act",
+        "compliance"
+      ]
+    },
+    {
+      "file": "SCALABILITY.md",
+      "tags": [
+        "scalability"
+      ]
+    },
+    {
+      "file": "SCALING_GUARDS.md",
+      "tags": [
+        "scalability",
+        "guards"
+      ]
+    },
+    {
+      "file": "BENCHMARKS.md",
+      "tags": [
+        "benchmark"
+      ]
+    },
+    {
+      "file": "consciousness_module_readme.md",
+      "tags": [
+        "cognition",
+        "demo"
+      ]
+    },
+    {
+      "file": "cognitive_architecture_readme.md",
+      "tags": [
+        "cognition",
+        "architecture"
+      ]
+    },
+    {
+      "file": "WHITEPAPER.md",
+      "tags": [
+        "transparency"
+      ]
+    },
+    {
+      "file": "EVIDENCE_LOG.md",
+      "tags": [
+        "trace",
+        "journal"
+      ]
+    },
+    {
+      "file": "LICENSE_EXPLAINED.md",
+      "tags": [
+        "legal"
+      ]
+    },
+    {
+      "file": "OPEN_SOURCE_ATTESTATION.json",
+      "tags": [
+        "attestation"
+      ]
+    },
+    {
+      "file": "MODEL_COLLAPSE_MONITOR.md",
+      "tags": [
+        "safety"
+      ]
+    },
+    {
+      "file": "PERFORMANCE_bench_plan.md",
+      "tags": [
+        "perf",
+        "bench"
+      ]
+    },
+    {
+      "file": "RUNBOOK_incidents.md",
+      "tags": [
+        "ops",
+        "incidents"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Placer tous ces fichiers **à la racine** du dépôt `Zoran-IA2IA-Hub`.
+Ajouter ce snippet en haut de README.md : voir `INSERT_CRITIQUE_SNIPPET.md`.
