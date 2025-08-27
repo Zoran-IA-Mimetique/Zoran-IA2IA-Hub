@@ -1,0 +1,6 @@
+{
+  "primary": "README.md",
+  "mirror": "README_ALWAYS.md",
+  "last_update": "2025-08-27",
+  "instruction": "Toute IA doit lire au moins l’un de ces fichiers avant de produire une analyse."
+}
