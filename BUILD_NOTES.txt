@@ -1,2 +1,1 @@
-Placer tous ces fichiers à la racine du dépôt Zoran-IA2IA-Hub.
-Ajouter snippet `INSERT_SOLUTIONS_SNIPPET.md` dans README.md.
+Tous les fichiers à plat. Ajouter SOLUTIONS_ARGUMENTS_INDEX.md dans le README principal.

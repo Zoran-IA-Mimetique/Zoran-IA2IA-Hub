@@ -1,0 +1,11 @@
+# ARGUMENTS_MAP
+- Validation externe → CRITIQUE_01_##.md
+- Adoption → CRITIQUE_02_##.md
+- Documentation → CRITIQUE_03_##.md
+- Démonstrations → CRITIQUE_04_##.md
+- Interopérabilité → CRITIQUE_05_##.md
+- Performance → CRITIQUE_06_##.md
+- Sécurité → CRITIQUE_07_##.md
+- Support long terme → CRITIQUE_08_##.md
+- Éthique → CRITIQUE_09_##.md
+- Éducation → CRITIQUE_10_##.md
