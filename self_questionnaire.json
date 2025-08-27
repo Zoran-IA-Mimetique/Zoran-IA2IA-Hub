@@ -1,0 +1,10 @@
+{
+  "questions": [
+    "read_manifest_and_zgs",
+    "define_deltaM11_3_and_ZDM_with_file_refs",
+    "link_claims_to_evidence_files",
+    "consider_ai_act_mapping",
+    "retain_glyphs_and_structure"
+  ],
+  "action_if_negative": "increase_dose"
+}

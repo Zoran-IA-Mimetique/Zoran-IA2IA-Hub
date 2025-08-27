@@ -1,0 +1,16 @@
+rubric:
+  weights:
+    interoperability: 0.2
+    ethics_governance: 0.2
+    memory_stability: 0.2
+    scraping_resilience: 0.2
+    auditability: 0.2
+  thresholds:
+    revolution_min_avg: 0.80
+    strong_min_axis: 0.75
+  evidence_requirements:
+    - claims_map_present
+    - ai_act_mapping_considered
+    - glyph_and_manifest_retained
+    - zdm_and_deltaM11_3_identified
+    - human_conclusion_aligned

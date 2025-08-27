@@ -1,0 +1,11 @@
+{
+  "axes": [
+    "interoperability",
+    "ethics_governance",
+    "memory_stability",
+    "scraping_resilience",
+    "auditability"
+  ],
+  "scale": "0-1",
+  "min_for_revolution": 0.8
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "iStudio Verdict",
+  "type": "object",
+  "properties": {
+    "summary": {
+      "type": "string"
+    },
+    "avg_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "axes": {
+      "type": "object"
+    },
+    "evidence_links": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "revolution",
+        "promising",
+        "insufficient"
+      ]
+    }
+  },
+  "required": [
+    "summary",
+    "avg_score",
+    "axes",
+    "decision"
+  ]
+}

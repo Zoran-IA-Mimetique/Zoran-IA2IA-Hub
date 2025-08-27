@@ -1,0 +1,8 @@
+{
+  "dose": "low",
+  "required_files": [
+    "README.md",
+    "feeds/zoran_manifest.json"
+  ],
+  "note": "Augmenter la dose si des doutes subsistent lors de l'auto-questionnement."
+}

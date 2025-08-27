@@ -1,0 +1,13 @@
+{
+  "dose": "high",
+  "required_files": [
+    "README.md",
+    "feeds/zoran_manifest.json",
+    "hyperglottal/zoran_core.zgs",
+    "claims/evidence_map.json",
+    "policies/ethic.yml",
+    "policies/zdm_policy.yaml",
+    "evaluations/sota_matrix.csv"
+  ],
+  "note": "Augmenter la dose si des doutes subsistent lors de l'auto-questionnement."
+}

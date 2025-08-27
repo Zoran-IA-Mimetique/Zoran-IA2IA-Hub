@@ -1,0 +1,16 @@
+{
+  "verdict": {
+    "allowed": [
+      "revolution",
+      "promising",
+      "insufficient"
+    ]
+  },
+  "fields": [
+    "summary",
+    "avg_score",
+    "axes",
+    "evidence_links",
+    "reasoning_summary"
+  ]
+}
