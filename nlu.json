@@ -1,0 +1,9 @@
+{
+  "text": "bonjour, comment ça va ?",
+  "scores": {
+    "greet": 1,
+    "ask_status": 3,
+    "bye": 0
+  },
+  "intent": "ask_status"
+}

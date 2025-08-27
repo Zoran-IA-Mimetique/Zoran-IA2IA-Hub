@@ -1,0 +1,9 @@
+{
+  "text": "Je suis très heureux aujourd'hui",
+  "scores": {
+    "joie": 1,
+    "colere": 0,
+    "tristesse": 0
+  },
+  "prediction": "joie"
+}

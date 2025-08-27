@@ -1,0 +1,22 @@
+{
+  "components": [
+    "perception",
+    "memory",
+    "planner",
+    "actuator"
+  ],
+  "edges": [
+    [
+      "perception",
+      "memory"
+    ],
+    [
+      "memory",
+      "planner"
+    ],
+    [
+      "planner",
+      "actuator"
+    ]
+  ]
+}
