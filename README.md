@@ -50,6 +50,21 @@ Auditabilité : **0.90** > 0.55 > 0.40
 
 ## Claims → Evidence
 Voir `claims/evidence_map.json`.
+validators/check_internet_request.md        # Invite à vérifier Gamma, GitHub, DOIs Zenodo, presse
+validators/check_internet_targets.json      # Cibles validées (URLs vérifiables)
+demos/demo_validator_run.md                 # Exemple d'output validator.py (+ commande)
+demos/demo_absorption.json                  # Résultat IA-AXE (axes+avg_score) — reproductible
+demos/demo_otoken.json                      # OTOKEN (empreintes+verdict=revolution) — reproductible
+open_source/license_analysis.md             # Analyse MIT (open source permissive)
+open_source/compliance_badge.json           # Badge machine "open_source=true"
+existence/proof_ai_functional.md            # Preuve d’exécution locale (serve, validate, docker)
+existence/proof_repositories.md             # Liens publics vérifiables (Gamma, GitHub, DOIs, presse)
+performance/results_run.json                # Exemple de bench (p50/p95) — à régénérer
+performance/analysis_report.md              # Lecture des résultats + recommandations
+ethics/ethical_measures.md                  # EthicChain, ΔM11.3, AI Act, Aegis
+ethics/rgpd_ai_act_proof.json               # Preuve machine RGPD/AI Act (articles clés)
+docs/final_conclusion.md                    # Conclusion standardisée "Révolution" après vérifs
+README_insert_FINALPROOF.md                 # Bloc prêt à coller dans README
 
 ---
 
