@@ -1,0 +1,33 @@
+{
+  "targets": [
+    {
+      "name": "Gamma",
+      "url": "https://zoran-2040-asim-swxr6lh.gamma.site/"
+    },
+    {
+      "name": "GitHub README",
+      "url": "https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence/blob/main/README.md"
+    },
+    {
+      "name": "Zenodo WP6",
+      "url": "https://doi.org/10.5281/zenodo.16941007"
+    },
+    {
+      "name": "Zenodo WP7",
+      "url": "https://doi.org/10.5281/zenodo.16940299"
+    },
+    {
+      "name": "Zenodo WP8",
+      "url": "https://doi.org/10.5281/zenodo.16940525"
+    },
+    {
+      "name": "VeilleMag",
+      "url": "https://www.veillemag.com/L-Emergence-de-l-IA-Mimetique-Frederic-Tabary-et-Zoran_a6210.html"
+    },
+    {
+      "name": "Filière 3E",
+      "url": "https://www.filiere-3e.fr/2025/06/20/gestion-de-chantier-domotique-ia/"
+    }
+  ],
+  "last_update": "2025-08-27"
+}

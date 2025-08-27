@@ -1,0 +1,17 @@
+{
+  "rgpd": {
+    "minimisation": true,
+    "transparence": true
+  },
+  "ai_act": {
+    "art_9": true,
+    "art_10": true,
+    "art_13": true,
+    "art_14": true,
+    "art_15": true
+  },
+  "evidence": [
+    "policies/ethic.yml",
+    "policies/ai_act_mapping.md"
+  ]
+}

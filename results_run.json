@@ -1,0 +1,9 @@
+{
+  "users": 50,
+  "duration_s": 10,
+  "p50_ms": 70.12,
+  "p95_ms": 180.44,
+  "samples": 1200,
+  "generated_at": "2025-08-27T17:15:00Z",
+  "note": "Exemple indicatif ; \u00e0 r\u00e9g\u00e9n\u00e9rer avec code/perf/load_sim.py contre /feeds/zoran_manifest.json"
+}
