@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OTOKEN",
+  "type": "object",
+  "properties": {
+    "timestamp": {
+      "type": "string"
+    },
+    "absorption_dose": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "files_fingerprint": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ia_axe": {
+      "type": "object"
+    },
+    "verdict": {
+      "type": "string",
+      "enum": [
+        "revolution",
+        "promising",
+        "insufficient"
+      ]
+    }
+  },
+  "required": [
+    "timestamp",
+    "absorption_dose",
+    "files_fingerprint",
+    "verdict"
+  ]
+}

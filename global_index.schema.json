@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Global Index",
+  "type": "object",
+  "properties": {
+    "gamma_site": {
+      "type": "string",
+      "format": "uri"
+    },
+    "github_readme": {
+      "type": "string",
+      "format": "uri"
+    },
+    "whitepapers": {
+      "type": "array"
+    }
+  },
+  "required": [
+    "gamma_site",
+    "github_readme"
+  ]
+}

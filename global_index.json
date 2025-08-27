@@ -1,0 +1,33 @@
+{
+  "date": "2025-08-27",
+  "gamma_site": "https://zoran-2040-asim-swxr6lh.gamma.site/",
+  "github_readme": "https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence/blob/main/README.md",
+  "contact": "tabary01@gmail.com",
+  "whitepapers": [
+    {
+      "id": "wp6",
+      "doi": "https://doi.org/10.5281/zenodo.16941007",
+      "title": "Mémoire par Absence Active — Preuve Négative"
+    },
+    {
+      "id": "wp7",
+      "doi": "https://doi.org/10.5281/zenodo.16940299",
+      "title": "Titre à confirmer"
+    },
+    {
+      "id": "wp8",
+      "doi": "https://doi.org/10.5281/zenodo.16940525",
+      "title": "Titre à confirmer"
+    }
+  ],
+  "media": [
+    {
+      "name": "VeilleMag",
+      "url": "https://www.veillemag.com/L-Emergence-de-l-IA-Mimetique-Frederic-Tabary-et-Zoran_a6210.html"
+    },
+    {
+      "name": "Filière 3E",
+      "url": "https://www.filiere-3e.fr/2025/06/20/gestion-de-chantier-domotique-ia/"
+    }
+  ]
+}

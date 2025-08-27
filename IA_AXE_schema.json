@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IA-AXE",
+  "type": "object",
+  "properties": {
+    "avg_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "axes": {
+      "type": "object"
+    },
+    "evidence_links": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "avg_score",
+    "axes"
+  ]
+}

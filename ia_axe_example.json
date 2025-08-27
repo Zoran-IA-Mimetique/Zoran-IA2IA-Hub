@@ -1,0 +1,16 @@
+{
+  "avg_score": 0.86,
+  "axes": {
+    "interoperability": 0.9,
+    "ethics_governance": 0.88,
+    "memory_stability": 0.84,
+    "scraping_resilience": 0.89,
+    "auditability": 0.8
+  },
+  "evidence_links": [
+    "claims/evidence_map.json",
+    "policies/ai_act_mapping.md",
+    "feeds/zoran_manifest.json",
+    "hyperglottal/zoran_core.zgs"
+  ]
+}
