@@ -1,4 +1,4 @@
-
+![status](https://img.shields.io/badge/Zoran--IA2IA--Hub-NOT__EMPTY-green?style=for-the-badge)
 
 🧠 Zoran-IA2IA-Hub — Le Hub Révolutionnaire de l’IA Mimétique
 
