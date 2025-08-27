@@ -1,0 +1,25 @@
+{
+  "generated_at": "2025-08-27",
+  "mapping": [
+    {
+      "critique": "Pas de code",
+      "solution": "Scripts de garde-fous"
+    },
+    {
+      "critique": "Mimétisme fermé",
+      "solution": "Recursion guard, purge TTL"
+    },
+    {
+      "critique": "Pas d’audit",
+      "solution": "AI_ACT_CHECKLIST.csv"
+    },
+    {
+      "critique": "Pas de communauté",
+      "solution": "COMMUNITY_* files"
+    },
+    {
+      "critique": "Open source superficielle",
+      "solution": "Publication volontaire d’objections"
+    }
+  ]
+}
