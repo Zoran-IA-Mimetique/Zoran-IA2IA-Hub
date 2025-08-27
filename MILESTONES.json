@@ -1,0 +1,17 @@
+{
+  "2025-Q4": [
+    "Consolidation lib/",
+    "Tests unitaires",
+    "Cas d’usage",
+    "Démo end-to-end"
+  ],
+  "2026": [
+    "Scalabilité multi-agents",
+    "Décentralisation progressive"
+  ],
+  "2027+": [
+    "Release v1.0.0",
+    "Standardisation",
+    "Gouvernance ouverte"
+  ]
+}
