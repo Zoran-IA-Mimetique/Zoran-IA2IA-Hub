@@ -1,6 +1,5 @@
-# Résumé XAI depuis NDJSON (stdin)
+# Résumé NDJSON XAI depuis stdin
 import sys, json
-def main():
-    lines = [json.loads(l) for l in sys.stdin if l.strip()]
-    print({'count': len(lines), 'actors': sorted({l['actor'] for l in lines})})
-if __name__=='__main__': main()
+lines = [json.loads(l) for l in sys.stdin if l.strip()]
+actors = sorted({l.get('actor') or l.get('a', 'z') for l in lines})
+print({'count': len(lines), 'actors': actors})

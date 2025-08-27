@@ -1,0 +1,1 @@
+- Mimétisme fermé; amplification de biais; auto-référence.

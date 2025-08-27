@@ -1,0 +1,1 @@
+- Déclaratif; responsabilité floue; audits non contraignants.

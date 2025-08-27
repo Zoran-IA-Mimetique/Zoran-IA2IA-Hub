@@ -1,1 +1,1 @@
-Procédure d’arrêt d’urgence: seuils → déclenchement → notification → gel.
+Seuils, déclenchement, notification, gel; `kill_switch.sh` (démo)

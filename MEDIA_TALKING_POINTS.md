@@ -1,1 +1,1 @@
-- Communication≠Cognition; - Besoin d’audits; - Risques mimétiques.
+- Gemini×Zoran: prudence; - Communication≠Cognition; - Besoin d’audits.

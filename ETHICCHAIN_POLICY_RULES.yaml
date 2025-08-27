@@ -1,5 +1,3 @@
 rules:
   - name: no_harmful_content
-    description: Interdire contenu manifestement illicite/abusif.
   - name: privacy_minimization
-    description: Éviter données personnelles; anonymiser si besoin.

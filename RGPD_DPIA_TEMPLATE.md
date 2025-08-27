@@ -1,2 +1,2 @@
 # DPIA Template
-Contexte, Flux de données, Risques, Mesures, Validation.
+Contexte, Flux, Risques, Mesures, Validation.

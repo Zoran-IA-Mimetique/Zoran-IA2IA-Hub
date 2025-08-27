@@ -1,0 +1,1 @@
+- Surface d’attaque (injecteurs/prompts fractals); hardening insuffisant.

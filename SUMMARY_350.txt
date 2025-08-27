@@ -1,1 +1,1 @@
-Dossier plat « critiques + solutions » pour Zoran IA Mimétique: preuves exigées, reproductibilité, garde-fous (scan glyphes, purge TTL, collusion check, XAI), gouvernance exécutable, audits RGPD/AI Act, benchmarks indépendants, ressources pédagogiques.
+Pack plat axé sur le fil Gemini 2.5×Zoran : 12 objections (preuves, mimétisme, cognition/communication, reproductibilité, sécurité, gouvernance, sociétal) et 14 solutions concrètes avec scripts (scan glyphes/liens/secrets, XAI, purge TTL, collusion, escalade), benchmarks, CI et audits.

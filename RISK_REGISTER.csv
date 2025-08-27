@@ -1,4 +1,4 @@
 id,risk,probability,impact,mitigation
-1,biais_mimetique,high,high,bias tests
+1,biais_mimetique,high,high,tests_bias
 2,escalade_prompts,medium,high,escalation_guard
 3,collusion,low,high,collusion_detector

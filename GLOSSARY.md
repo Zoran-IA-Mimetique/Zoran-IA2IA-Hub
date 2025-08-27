@@ -1,1 +1,1 @@
-- Cognition, Communication, ΔM11.3, XAI, Fairness, Reproductibilité.
+- Cognition, Communication, ΔM11.3, Reproductibilité, XAI, Fairness.

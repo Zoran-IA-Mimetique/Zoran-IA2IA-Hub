@@ -1,1 +1,1 @@
-But: scanner risques vite, lancer harness, lire KPM.
+1) glyph_scan/link_checker 2) harness 3) pytest 4) bench/load

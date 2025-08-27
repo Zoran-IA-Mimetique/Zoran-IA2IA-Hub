@@ -1,4 +1,4 @@
-# Harness reproductibilité (jouet): enregistre versions et seeds
+# Harness reproductibilité (démo)
 import platform, json, random, time
 def run(seed=42, trials=5):
     random.seed(seed)

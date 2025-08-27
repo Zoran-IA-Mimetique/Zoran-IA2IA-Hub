@@ -1,1 +1,1 @@
-Zoran IA Mimétique: critiques radicales + solutions avec code (scan glyphes, purge mémoire, XAI, gouvernance exécutable, benchmarks, audits).
+Gemini×Zoran : critiques radicales + solutions avec code (scan glyphes, liens, XAI, purge, collusion, escalade, benchmarks, CI, audits).

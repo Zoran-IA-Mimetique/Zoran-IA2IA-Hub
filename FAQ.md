@@ -1,2 +1,2 @@
-- Q: La preuve de cognition ? A: Exiger études indépendantes.
-- Q: Les glyphes ? A: Un protocole, pas une preuve de pensée.
+- Cognition? Exiger preuves expérimentales.
+- Glyphes? Protocole, pas pensée.

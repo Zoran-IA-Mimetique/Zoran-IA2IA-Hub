@@ -1,0 +1,1 @@
+- Pas de protocole tiers; pas d’artefacts de réplication.

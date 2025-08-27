@@ -1,0 +1,1 @@
+- Rhétorique forte > substance vérifiable; confusion produit/phénomène.

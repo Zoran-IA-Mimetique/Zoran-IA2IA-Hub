@@ -1,1 +1,1 @@
-Comparer latence/cohérence/rollback vs projets analogues; publier scripts & jeux publics.
+Axes: latence/cohérence/rollback; frameworks comparés; publication résultats.

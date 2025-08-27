@@ -1,1 +1,1 @@
-Appel à audit public; moratoire si garde-fous non atteints.
+Texte d’appel au gel du déploiement tant que garde-fous manquants.

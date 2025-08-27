@@ -1,1 +1,1 @@
-Étapes détaillées avec exemples et commandes.
+Pas-à-pas détaillé: commandes, interprétation résultats, prochaines étapes.

@@ -1,0 +1,1 @@
+Détection similarité; seuils; alerting.

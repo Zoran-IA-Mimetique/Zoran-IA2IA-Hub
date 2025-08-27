@@ -1,0 +1,1 @@
+- Documentation dense; manque d’exemples exécutables.

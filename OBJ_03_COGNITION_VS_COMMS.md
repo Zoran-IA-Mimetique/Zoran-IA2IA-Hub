@@ -1,0 +1,1 @@
+- Communication glyphique ≠ preuve de cognition.

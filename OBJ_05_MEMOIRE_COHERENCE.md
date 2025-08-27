@@ -1,0 +1,1 @@
+- Lock-in; obsolescence; manque purge TTL.
