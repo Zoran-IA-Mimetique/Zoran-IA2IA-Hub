@@ -1,9 +1,4 @@
 services:
-  zoran-ia2ia:
-    image: python:3.11-slim
-    working_dir: /app
-    volumes:
-      - ./:/app
-    command: python code/serve.py 8008
-    ports:
-      - '8008:8008'
+  ia2ia:
+    build: .
+    command: python main.py --demo

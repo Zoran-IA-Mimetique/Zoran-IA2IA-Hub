@@ -1,0 +1,15 @@
+openapi: 3.1.0
+info: { title: IA2IA Hub API, version: '1.0.0' }
+paths:
+  /health:
+    get: { responses: { '200': { description: OK } } }
+  /process:
+    post:
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: './schemas/ia2ia-message.schema.json'
+      responses:
+        '200': { description: processed }

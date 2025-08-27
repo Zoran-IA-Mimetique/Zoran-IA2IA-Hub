@@ -1,0 +1,3 @@
+{"id": "1", "role": "agent", "content": "Ping", "meta": {"lang": "fr"}}
+{"id": "2", "role": "agent", "content": "Pong", "meta": {"lang": "en"}}
+{"id": "3", "role": "system", "content": "\u0394M11.3 enable", "meta": {}}

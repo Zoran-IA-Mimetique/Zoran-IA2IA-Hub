@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IA2IA Message",
+  "type": "object",
+  "required": [
+    "id",
+    "role",
+    "content"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string",
+      "enum": [
+        "system",
+        "agent",
+        "tool",
+        "user"
+      ]
+    },
+    "content": {
+      "type": "string"
+    },
+    "meta": {
+      "type": "object"
+    }
+  }
+}

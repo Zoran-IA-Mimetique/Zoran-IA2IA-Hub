@@ -1,27 +1,27 @@
+import argparse
+from orchestrator import Orchestrator
+from memory import FractalMemory
+from ethicchain_policy_check import policy_guard
 
-import csv, math, json, pathlib
+def demo():
+    mem = FractalMemory()
+    orch = Orchestrator(memory=mem)
+    msgs = [
+        {"id":"m1","role":"system","content":"Init ΔM11.3"},
+        {"id":"m2","role":"agent","content":"Hello from agent A"},
+        {"id":"m3","role":"agent","content":"Ack from agent B"}
+    ]
+    for m in msgs:
+        orch.process(m)
+    report = orch.report()
+    print("✓ Demo complete:", report)
 
-# Simple Bayesian likelihood demo for rare disease dataset
-data_path = pathlib.Path(__file__).parent/"data"/"patients.csv"
-with open(data_path, newline='', encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    patients = list(reader)
-
-# Hypothesis: patient has disease if symptom_score > threshold
-threshold = 0.7
-true_pos = sum(1 for p in patients if float(p["symptom_score"])>threshold and p["disease"]=="1")
-false_pos = sum(1 for p in patients if float(p["symptom_score"])>threshold and p["disease"]=="0")
-true_neg = sum(1 for p in patients if float(p["symptom_score"])<=threshold and p["disease"]=="0")
-false_neg = sum(1 for p in patients if float(p["symptom_score"])<=threshold and p["disease"]=="1")
-
-out = {
-    "threshold": threshold,
-    "true_pos": true_pos,
-    "false_pos": false_pos,
-    "true_neg": true_neg,
-    "false_neg": false_neg,
-    "sensitivity": true_pos/(true_pos+false_neg+1e-9),
-    "specificity": true_neg/(true_neg+false_pos+1e-9)
-}
-print(json.dumps(out, indent=2))
-(pathlib.Path(__file__).parent/"results"/"output.json").write_text(json.dumps(out, indent=2), encoding="utf-8")
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--demo", action="store_true")
+    args = parser.parse_args()
+    policy_guard()
+    if args.demo:
+        demo()
+    else:
+        print("Use --demo to run the quick demo.")

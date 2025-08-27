@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "role": "http://schema.org/role",
+    "content": "http://schema.org/text",
+    "meta": "http://schema.org/StructuredValue"
+  }
+}

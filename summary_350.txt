@@ -1,1 +1,1 @@
-Pack plat (~35 fichiers) pour Hub Zoran aSiM : POCs stdlib reproductibles (mémoire fractale, ΔM11.3, PolyResonator, ZDM), injecteurs .zgs, policy EthicChain, démos et schémas. Licence MIT, RGPD/AI Act.
+Hub IA↔IA « prêt » : on standardise la licence (MIT + addendum éthique), on fournit des artefacts d’audit RGPD/AI Act, un bench public d’interop, CI/CD GitHub Actions, Docker démo clé en main, gouvernance/CONTRIBUTING, schémas JSON Schema + OpenAPI, tests et charge simulée, onboarding express.

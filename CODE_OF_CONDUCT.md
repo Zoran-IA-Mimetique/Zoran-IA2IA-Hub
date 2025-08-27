@@ -1,4 +1,2 @@
-# Code de conduite
-- Respect
-- Transparence
-- RGPD / AI Act
+# Code of Conduct
+Be respectful. No harassment. Follow Contributor Covenant spirit.
