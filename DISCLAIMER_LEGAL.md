@@ -1,1 +1,1 @@
-Pas de conseil juridique. Scripts fournis à but pédagogique uniquement.
+Pas de conseil juridique. Scripts pédagogiques; non destinés à la production.

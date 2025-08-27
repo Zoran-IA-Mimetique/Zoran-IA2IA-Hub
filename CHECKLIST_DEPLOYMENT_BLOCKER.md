@@ -1,0 +1,4 @@
+- Pas d’audit externe → blocage
+- Pas de XAI → blocage
+- Pas de purge TTL → blocage
+- Pas de CI bloquante → blocage

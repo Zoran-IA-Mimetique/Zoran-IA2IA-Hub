@@ -1,1 +1,1 @@
-Pack plat axé sur le fil Gemini 2.5×Zoran : 12 objections (preuves, mimétisme, cognition/communication, reproductibilité, sécurité, gouvernance, sociétal) et 14 solutions concrètes avec scripts (scan glyphes/liens/secrets, XAI, purge TTL, collusion, escalade), benchmarks, CI et audits.
+Dossier plat de **hard‑critique**: 24 objections (fondements, autarcie, lock‑in, sécurité, éthique, société) + plaidoyer d’arrêt immédiat, matrices risques, checklists et **scripts de garde** (recursion, glyphes, secrets, privacy, collusion). CI prête à déplacer.

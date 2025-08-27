@@ -1,1 +1,1 @@
-Seuils, déclenchement, notification, gel; `kill_switch.sh` (démo)
+Procédure d’arrêt d’urgence; script de démonstration `kill_switch.sh`.

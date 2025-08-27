@@ -1,1 +1,1 @@
-Menaces STRIDE: Spoofing, Tampering, Repudiation, Info disclosure, DoS, Elevation.
+STRIDE: Spoofing,Tampering,Repudiation,Info Disclosure,DoS,Elevation — scénarios et mitigations de haut niveau.

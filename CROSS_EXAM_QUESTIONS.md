@@ -1,0 +1,3 @@
+- Donnez 3 preuves réplicables signées par tiers.
+- Donnez 2 cas d’usage avec métriques.
+- Publiez les journaux XAI détaillés.

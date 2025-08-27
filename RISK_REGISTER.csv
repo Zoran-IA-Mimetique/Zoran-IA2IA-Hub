@@ -1,4 +1,5 @@
 id,risk,probability,impact,mitigation
-1,biais_mimetique,high,high,tests_bias
-2,escalade_prompts,medium,high,escalation_guard
-3,collusion,low,high,collusion_detector
+1,mimetic_bias,high,high,bias_tests
+2,recursive_lockin,medium,high,recursion_guard
+3,privacy_leak,medium,high,privacy_scans
+4,collusion,low,high,collusion_detector
