@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Veuillez citer ce dépôt si vous l'utilisez."
+title: "Zoran-IA2IA-Hub"
+authors:
+  - family-names: "Tabary"
+    given-names: "Frédéric"
+    email: "tabary01@gmail.com"
+date-released: 2025-08-27
+version: "0.0.0-complements"

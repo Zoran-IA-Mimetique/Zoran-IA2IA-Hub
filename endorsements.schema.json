@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Endorsements",
+  "type": "object",
+  "properties": {
+    "endorsements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "link": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": [
+          "source",
+          "date",
+          "link"
+        ]
+      }
+    },
+    "last_update": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "endorsements"
+  ]
+}
