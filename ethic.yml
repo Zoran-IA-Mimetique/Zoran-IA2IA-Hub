@@ -1,4 +1,1 @@
-ethic_chain:
-  principles: [transparency, public_good, data_minimization]
-  compliance: {rgpd: true, ai_act: true, iso_42001: true}
-  aegis_layer: {guardian: true, care: true, vigilance: true}
+principles: [public_good]
