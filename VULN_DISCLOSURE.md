@@ -1,0 +1,1 @@
+Processus de divulgation coordonnée.

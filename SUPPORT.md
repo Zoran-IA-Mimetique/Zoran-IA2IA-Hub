@@ -1,2 +1,1 @@
-# Support
-Open issues or contact: tabary01@gmail.com
+Ouvrir issue; email contact: tabary01@gmail.com

@@ -1,0 +1,1 @@
+Standardisation licence (MIT + addendum), matrices RGPD/AI Act, bench interop public, CI/CD Actions, Docker clé en main, gouvernance/CONTRIBUTING, schémas JSON Schema + OpenAPI, XAI & fairness, docs d’onboarding.

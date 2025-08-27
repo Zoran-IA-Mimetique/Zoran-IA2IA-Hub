@@ -1,0 +1,1 @@
+Hub IA↔IA prêt prod : MIT, RGPD/AI Act, interop bench, CI/CD, Docker, gouvernance claire, schémas normalisés, sécurité & XAI.
