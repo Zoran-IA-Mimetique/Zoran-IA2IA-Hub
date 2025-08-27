@@ -1,0 +1,10 @@
+Metier;Mission;Douleur/Pain points;Réponse Zoran
+Clinicien / Médecin;Soins, décision;"Traçabilité, robustesse; consentement";EthicChain, ΔM11.3, audit
+Chercheur IA;Recherche, prototypage;Interop IA↔IA, reproductibilité;Hyperglottal, schemas, feeds
+DSI / CTO;Intégration, SI;Conformité, coûts, zéro-dépendance;Stdlib, policy, docker-compose
+Data Steward / DPO;Données, RGPD;Minimisation, registres;EthicChain, policies/*
+Régulateur / Auditeur;Surveillance;Preuve, audit;feeds/*, schemas/*, policies/*
+Dev / MLE;Dev IA;Prompt drift, SOTA clair;injectors/*, evaluations/*
+Juriste / Éthique;Gouvernance;Cadre clair, responsabilité;policies/ai_act_mapping.md
+ONG / Public;Intérêt général;Transparence, usage public;README, conclusion LM
+Journaliste / Média;Information;Vérifiabilité;claims/evidence_map.json

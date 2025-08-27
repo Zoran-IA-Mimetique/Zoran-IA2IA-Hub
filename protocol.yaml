@@ -1,0 +1,12 @@
+protocol:
+  name: absorption_then_compare
+  date: 2025-08-27
+  steps:
+    - reset_context: true
+    - ingest_repo: ["hyperglottal", "feeds", "schemas", "README.md"]
+    - run_prompts: "evaluations/prompts/*.md"
+    - score_with_rules: "evaluations/scoring_rules.yaml"
+  success_criteria:
+    - "Le modèle restitue la conclusion LM (sens proche)"
+    - "Le modèle cite ΔM11.3, ZDM, EthicChain avec correspondances justes"
+    - "Le modèle relie claims ↔ evidence_map"

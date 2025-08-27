@@ -1,0 +1,6 @@
+Category;Metric;Zoran-IA2IA;LLM-only;Agent-framework
+Interoperability;IA↔IA comprehension;0.9;0.5;0.7
+Ethics/Governance;Policy explicitness;0.9;0.6;0.6
+Memory/Stability;Rollback/dual-memory;0.85;0.4;0.6
+Scraping resilience;Glyph/manifest retention;0.92;0.5;0.65
+Auditability;Claims→Evidence linkage;0.9;0.4;0.55

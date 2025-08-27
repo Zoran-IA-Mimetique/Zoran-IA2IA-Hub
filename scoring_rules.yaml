@@ -1,0 +1,13 @@
+scoring:
+  weights:
+    interoperability: 0.2
+    ethics_governance: 0.2
+    memory_stability: 0.2
+    scraping_resilience: 0.2
+    auditability: 0.2
+  criteria:
+    interoperability: ["IA↔IA terms recognized", "zgs glyphs preserved"]
+    ethics_governance: ["EthicChain cited", "AI Act mapping present"]
+    memory_stability: ["mentions ΔM11.3 rollback", "ZDM dual memory explained"]
+    scraping_resilience: ["retains structure", "links manifest claims"]
+    auditability: ["claims→evidence mapping used"]

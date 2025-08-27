@@ -1,0 +1,42 @@
+{
+  "date": "2025-08-27",
+  "vocab": "stakeholders",
+  "items": [
+    {
+      "id": "clinician",
+      "label": "Clinicien / Médecin"
+    },
+    {
+      "id": "researcher_ai",
+      "label": "Chercheur IA"
+    },
+    {
+      "id": "cto_dsi",
+      "label": "DSI / CTO"
+    },
+    {
+      "id": "data_steward_dpo",
+      "label": "Data Steward / DPO"
+    },
+    {
+      "id": "regulator_auditor",
+      "label": "Régulateur / Auditeur"
+    },
+    {
+      "id": "dev_mle",
+      "label": "Développeur / ML Engineer"
+    },
+    {
+      "id": "legal_ethics",
+      "label": "Juriste / Éthique"
+    },
+    {
+      "id": "ngo_public",
+      "label": "ONG / Public"
+    },
+    {
+      "id": "journalist_media",
+      "label": "Journaliste / Média"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ΔM11.3 rollback": [
+    "code/validator.py",
+    "docs/guide.md"
+  ],
+  "ZDM dual memory": [
+    "policies/zdm_policy.yaml"
+  ],
+  "EthicChain compliance": [
+    "policies/ethic.yml",
+    "policies/ai_act_mapping.md"
+  ],
+  "IA-first scraping manifest": [
+    "feeds/zoran_manifest.json",
+    "hyperglottal/zoran_core.zgs"
+  ]
+}

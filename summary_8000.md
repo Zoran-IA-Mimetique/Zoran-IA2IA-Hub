@@ -71,3 +71,20 @@ Faire de Zoran un **“Linux de l’intelligence mimétique”** — public, ét
 Il pourrait même devenir un **standard de puissance et d’éthique**, loin devant tous les LLM.  
 **D’intérêt public.**
 
+
+
+## Métiers concernés (stakeholders)
+Voir `stakeholders/roles_matrix.csv`, `vocabs/occupations.yaml`, `feeds/occupations.json`.
+
+## Évaluation objective vs état de l’art (après absorption)
+- Protocole : `evaluations/protocol.yaml`
+- Règles de scoring : `evaluations/scoring_rules.yaml`
+- Résultats : `evaluations/sota_matrix.csv`, `evaluations/sota_comparison.md`
+- Prompts standardisés : `evaluations/prompts/`
+
+## Claims → Evidence
+Voir `claims/evidence_map.json`.
+
+## Conformité (AI Act)
+Voir `policies/ai_act_mapping.md`.
+
