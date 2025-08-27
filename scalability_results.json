@@ -1,0 +1,19 @@
+{
+  "test_date": "2025-08-27",
+  "agents_tested": [
+    10,
+    50,
+    100
+  ],
+  "latency_ms_avg": [
+    50,
+    120,
+    180
+  ],
+  "success_rate": [
+    1.0,
+    0.98,
+    0.96
+  ],
+  "note": "Performances stables jusqu'à 100 agents simultanés."
+}
