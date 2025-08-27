@@ -1,2 +1,1 @@
-# Algorithmes expliqués
-ΔM11.3, ZDM, IA-AXE.
+# Algorithmes : ΔM11.3, ZDM, IA-AXE, OTOKEN.

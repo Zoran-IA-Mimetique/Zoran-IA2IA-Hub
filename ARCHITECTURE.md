@@ -1,17 +1,12 @@
-# Architecture — Zoran-IA2IA-Hub
 
-## Communication inter-agents
-- Protocole glyphique HyperGlottal (.zgs)
-- Manifestes JSON/LD
-- Claims→Evidence map
+# Architecture Zoran — Vue canonique
 
-## Sécurité & Confidentialité
-- EthicChain : gouvernance éthique et RGPD/AI Act
-- Rollback ΔM11.3 : sécurité anti-entropie
-- Pas de dépendances externes → surface réduite
+```
+[Perception] → [Mémoire (ZDM)] → [Planificateur] → [Action]
+         ↘          ↑                 ↓
+          └── HyperGlottal .zgs ──────┘
+```
 
-## Vue schématique (texte)
-Agent ↔ Hub ↔ Agent
-  ↳ HyperGlottal (glyphes)
-  ↳ Manifeste JSON
-  ↳ Validation ΔM11.3
+- **Multi‑hubs** : réplication gossip, quorum, anti‑SPOF.
+- **Stateless** : service lecture + calcul léger ; données gouvernées en dehors.
+- **Éthique** : EthicChain, AI Act mapping, ΔM11.3 en garde de cohérence.

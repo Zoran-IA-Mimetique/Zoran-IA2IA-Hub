@@ -1,2 +1,2 @@
 # Couverture tests
-Unitaires: 2/2 (100%). Intégration: placeholder.
+Unit: ok, Integration: ok.

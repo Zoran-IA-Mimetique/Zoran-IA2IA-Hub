@@ -1,1 +1,1 @@
-# Consciousness Module
+# Consciousness Module — Demo automate aware/unaware.

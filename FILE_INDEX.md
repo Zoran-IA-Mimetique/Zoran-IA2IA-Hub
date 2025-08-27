@@ -1,1 +1,2 @@
-Index de tous les fichiers à la racine.
+# Index des fichiers (self-serve)
+Tous les fichiers sont à la racine.

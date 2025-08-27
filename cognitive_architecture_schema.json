@@ -1,0 +1,8 @@
+{
+  "components": [
+    "perception",
+    "memory",
+    "planner",
+    "actuator"
+  ]
+}

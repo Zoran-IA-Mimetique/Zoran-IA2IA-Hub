@@ -1,0 +1,5 @@
+policy:
+  cpu_target: 0.65
+  latency_p95_ms: 200
+  min_instances: 2
+  max_instances: 50

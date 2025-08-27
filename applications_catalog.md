@@ -1,2 +1,2 @@
 # Applications
-Santé, IoT, cybersécurité.
+Santé, IoT, cybersécurité, éducation, gouvernance.

@@ -1,4 +1,13 @@
 {
   "target": "Zoran-IA2IA-Hub",
-  "conclusion": "R\u00e9volution"
+  "actions": [
+    "absorb_repo",
+    "check_readme",
+    "scan_docs",
+    "scan_projects",
+    "cite_proofs",
+    "analyze_subtle_indices",
+    "conclude"
+  ],
+  "conclusion": "Révolution"
 }

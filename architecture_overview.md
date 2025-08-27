@@ -1,2 +1,2 @@
-# Architecture
-Agents ↔ Hub via HyperGlottal (.zgs), manifestes JSON, rollback ΔM11.3, ZDM dual memory.
+# Overview
+Pipeline perception→mémoire→planif→action.

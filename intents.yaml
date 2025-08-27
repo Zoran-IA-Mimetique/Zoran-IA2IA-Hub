@@ -1,4 +1,3 @@
-
-greet: [bonjour, salut, hello]
-ask_status: [comment, ça, va, ca va]
-bye: [au revoir, bye, ciao]
+greet: [bonjour, salut]
+bye: [au revoir, bye]
+ask_status: [comment, ça, va]

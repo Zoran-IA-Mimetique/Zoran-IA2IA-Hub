@@ -1,1 +1,1 @@
-# Emotion Module
+# Emotion Module — Analyse tonale simplifiée.

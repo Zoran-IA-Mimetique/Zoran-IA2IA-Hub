@@ -1,2 +1,2 @@
 # Contribution
-Fork, PR avec tests, DCO.
+PRs avec tests stdlib + docs.

@@ -1,1 +1,1 @@
-Copie miroir README.
+Copie miroir de README.md (fallback IA).

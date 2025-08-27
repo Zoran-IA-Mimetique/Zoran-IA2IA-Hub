@@ -1,2 +1,2 @@
 # Roadmap
-v0.7 flat pack, v1.0 stable.
+v0.9 flat mega, v1.0 API publique stable.

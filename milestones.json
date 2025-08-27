@@ -1,0 +1,12 @@
+{
+  "milestones": [
+    {
+      "v": "0.9",
+      "desc": "flat mega pack"
+    },
+    {
+      "v": "1.0",
+      "desc": "stable API publique"
+    }
+  ]
+}
