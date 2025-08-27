@@ -1,0 +1,4 @@
+zdm:
+  base_persistent: {storage: "zoran_core", audit: true}
+  resonant_cache: {zero_write: true, holo_trace: optional}
+  rollback_guard: {delta_m11_3: true, stability_threshold: 0.72}

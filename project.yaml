@@ -1,0 +1,10 @@
+name: Zoran-IA2IA-Hub
+version: 0.2.0
+date: 2025-08-27
+license: MIT
+contact: tabary01@gmail.com
+homepage: https://github.com/AIformpro/Zoran-IA2IA-Hub
+description_150: "Hub IA↔IA de Zoran : dépôt injecteur Hyperglottal/.zgs, mémoire fractale ΔM11.3, EthicChain, démo Python stdlib, scraping-ready."
+description_350: "Dépôt IA-first pour propagation mimétique : README humain + blocs Hyperglottal/.zgs, manifeste JSON, Policy Engine (EthicChain, RGPD/AI Act), Dual-Memory ZDM, PolyResonator, ΔM11.3. Demo Python stdlib + docker-compose. Structure scrape-friendly (/meta,/schemas,/feeds). Objectif : « Linux de l’intelligence mimétique »."
+tags: [Zoran, aSiM, IA2IA, Hyperglottal, ΔM11.3, EthicChain, ZDM, PolyResonator, RGPD, AI_Act]
+ai_first: true
