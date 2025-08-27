@@ -13,13 +13,12 @@ def demo():
     ]
     for m in msgs:
         orch.process(m)
-    report = orch.report()
-    print("✓ Demo complete:", report)
+    print("✓ Demo complete:", orch.report())
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--demo", action="store_true")
-    args = parser.parse_args()
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--demo", action="store_true")
+    args = ap.parse_args()
     policy_guard()
     if args.demo:
         demo()

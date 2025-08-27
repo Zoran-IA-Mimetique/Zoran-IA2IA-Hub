@@ -1,2 +1,1 @@
-# Code of Conduct
-Be respectful. No harassment. Follow Contributor Covenant spirit.
+Respect; pas de harcèlement; safe space.

@@ -1,0 +1,3 @@
+- Inputs loggés
+- Règles visibles
+- Lien décision ↔ métrique

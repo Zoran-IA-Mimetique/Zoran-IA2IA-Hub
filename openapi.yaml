@@ -10,6 +10,6 @@ paths:
         content:
           application/json:
             schema:
-              $ref: './schemas/ia2ia-message.schema.json'
+              $ref: './ia2ia-message.schema.json'
       responses:
         '200': { description: processed }

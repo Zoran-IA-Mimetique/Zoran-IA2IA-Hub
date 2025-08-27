@@ -1,2 +1,2 @@
 # Coverage
-Artifacts generated in CI.
+OK

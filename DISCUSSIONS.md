@@ -1,2 +1,1 @@
-# Discussions
-Use GitHub Discussions to ask questions.
+Utiliser GitHub Discussions (à activer dans le repo).

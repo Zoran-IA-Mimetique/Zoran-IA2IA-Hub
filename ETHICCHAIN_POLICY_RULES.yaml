@@ -1,0 +1,4 @@
+rules:
+  - name: forbid_secrets
+    pattern: '(AKIA|SECRET|PRIVATE KEY)'
+    action: fail

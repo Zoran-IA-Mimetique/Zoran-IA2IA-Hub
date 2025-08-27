@@ -1,0 +1,2 @@
+@prefix ia2ia: <https://example.org/ia2ia#> .
+ia2ia:Message a rdfs:Class .

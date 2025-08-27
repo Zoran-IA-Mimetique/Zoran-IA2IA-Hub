@@ -1,2 +1,1 @@
-# ISO/IEC 42001 Mapping
-Controls ↔ project artefacts (draft).
+Mapping non exhaustif entre contrôles et artefacts fournis.

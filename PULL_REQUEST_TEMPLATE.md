@@ -1,4 +1,4 @@
-## Summary
+## PR
 - [ ] Tests
 - [ ] Docs
-- [ ] Compliance impact checked
+- [ ] Conformité vérifiée

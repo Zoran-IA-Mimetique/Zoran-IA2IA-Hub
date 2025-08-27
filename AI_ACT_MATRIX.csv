@@ -1,3 +1,3 @@
 requirement,status,evidence
-risk_management,partial,SECURITYPRIVACY.md
-logging,partial,results/
+risk_management,partial,SECURITY_POLICY.md
+logging,partial,AUDIT_LOG_FORMAT.md

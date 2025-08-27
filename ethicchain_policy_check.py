@@ -1,8 +1,6 @@
-# Simple policy guard used in CI and at runtime (non-enforcing demo stub)
+# Non-enforcing demo policy guard
 import os
-
-FORBIDDEN = []  # extend with patterns if needed
-
+FORBIDDEN = []
 def policy_guard():
     for p in FORBIDDEN:
         if os.path.exists(p):

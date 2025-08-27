@@ -1,0 +1,1 @@
+Badges Shields.io recommandés.

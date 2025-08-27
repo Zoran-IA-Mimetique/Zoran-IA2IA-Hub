@@ -1,2 +1,2 @@
-# DPIA Template
-Use this to assess personal data risks.
+# Modèle DPIA
+Sections: Contexte, Flux, Risques, Mesures, Validation.

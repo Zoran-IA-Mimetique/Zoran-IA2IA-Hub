@@ -1,1 +1,1 @@
-No legal advice; consult counsel for production deployments.
+Aucun conseil juridique; consulter un conseil pour prod.
