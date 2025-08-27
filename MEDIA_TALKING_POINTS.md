@@ -1,0 +1,4 @@
+- IA↔IA Hub = cheval de Troie
+- Risques injection & mémoire
+- Gouvernance illusoire
+- Société exposée

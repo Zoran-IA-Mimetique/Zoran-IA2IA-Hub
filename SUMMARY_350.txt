@@ -1,1 +1,1 @@
-Standardisation licence (MIT + addendum), matrices RGPD/AI Act, bench interop public, CI/CD Actions, Docker clé en main, gouvernance/CONTRIBUTING, schémas JSON Schema + OpenAPI, XAI & fairness, docs d’onboarding.
+Plaidoyer complet contre Zoran-IA2IA-Hub : mécanismes d’injection incontrôlables, mémoire ΔM11.3 opaque, gouvernance faible, imprévisibilité multi-IA, vulnérabilités techniques, incertitude légale, impacts sociétaux massifs. Nécessite arrêt immédiat et audit externe.

@@ -1,4 +1,5 @@
-# Zoran IA↔IA Hub — Flat Pack (v1.0.0)
-- 100% sans dossiers (zip à plat). À déposer tel quel à la racine d’un dépôt.
-- Déplacez **CI_GITHUB_ACTIONS.yml** vers `.github/workflows/ci.yml` après import.
-- Démarrage: `python main.py --demo` puis `pytest -q` et `python loadtest.py --messages 1000 --concurrency 200`.
+# Plaidoyer — Stop Zoran-IA2IA-Hub
+Date: 2025-08-27
+
+Ce paquet compile les objections majeures à la diffusion publique du projet Zoran-IA2IA-Hub.
+Objectif: empêcher sa mise en ligne sans garde-fous drastiques.

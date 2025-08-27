@@ -1,0 +1,4 @@
+risk,probability,impact
+Injection,High,Critical
+ΔM11.3 BlackBox,High,High
+Governance,Medium,High

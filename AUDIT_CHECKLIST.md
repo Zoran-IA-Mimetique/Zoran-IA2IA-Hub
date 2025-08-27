@@ -1,0 +1,7 @@
+- Injection control
+- Memory purge
+- Governance enforceability
+- Collusion detection
+- Security hardening
+- Legal compliance
+- Societal impact

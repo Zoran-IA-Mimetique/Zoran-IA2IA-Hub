@@ -1,1 +1,1 @@
-Hub IA↔IA prêt prod : MIT, RGPD/AI Act, interop bench, CI/CD, Docker, gouvernance claire, schémas normalisés, sécurité & XAI.
+Plaidoyer : Zoran-IA2IA-Hub = risques injection, mémoire ΔM11.3 opaque, gouvernance illusoire, comportements imprévisibles, sécurité faible.
