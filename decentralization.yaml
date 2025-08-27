@@ -1,0 +1,5 @@
+mode: multi_hub
+quorum: 2_of_3
+replication: gossip
+fallback: enabled
+rollback_guard: ΔM11.3

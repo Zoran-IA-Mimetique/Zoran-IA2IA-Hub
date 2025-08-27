@@ -1,0 +1,14 @@
+{
+  "primary": "https://hub-1.example.org",
+  "fallback": [
+    "https://hub-2.example.org",
+    "https://hub-3.example.org"
+  ],
+  "strategy": "round_robin",
+  "retry_backoff_ms": [
+    100,
+    200,
+    400,
+    800
+  ]
+}
