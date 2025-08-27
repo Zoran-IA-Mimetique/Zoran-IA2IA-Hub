@@ -1,0 +1,5 @@
+gates:
+  - name: require_tests
+    check: at_least_one_test
+  - name: forbid_secrets
+    check: no_secret_patterns

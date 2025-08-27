@@ -1,0 +1,3 @@
+requirement,status,evidence
+risk_management,planned,AI_ACT_CHECKLIST.csv
+logging,planned,xai_logger.py

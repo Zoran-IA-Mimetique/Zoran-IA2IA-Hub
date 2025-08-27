@@ -1,25 +1,12 @@
 name: CI
 on: [push, pull_request]
 jobs:
-  test:
+  checks:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+        with: { python-version: '3.11' }
       - run: pip install -r requirements.txt
-      - run: python ethicchain_policy_check.py
-      - run: pytest --maxfail=1 --disable-warnings -q
-      - run: python - << 'PY'
-import pathlib; pathlib.Path('coverage_report.md').write_text('# Coverage\nOK\n')
-PY
-  docker-build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: docker/setup-buildx-action@v3
-      - uses: docker/build-push-action@v6
-        with:
-          context: .
-          push: false
+      - run: python governance_enforcer.py
+      - run: pytest -q

@@ -1,7 +1,5 @@
-- Injection control
-- Memory purge
-- Governance enforceability
-- Collusion detection
-- Security hardening
-- Legal compliance
-- Societal impact
+- Reproductibilité
+- XAI/Traçabilité
+- Sécurité/Secrets
+- Biais/Fairness
+- Conformité RGPD/AI Act

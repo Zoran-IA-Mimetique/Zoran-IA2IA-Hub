@@ -1,1 +1,1 @@
-Modèle de pétition pour bloquer publication Zoran-IA2IA-Hub.
+Appel à audit public; moratoire si garde-fous non atteints.

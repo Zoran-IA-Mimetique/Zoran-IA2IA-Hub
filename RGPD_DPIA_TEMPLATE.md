@@ -1,2 +1,2 @@
-# Modèle DPIA
-Sections: Contexte, Flux, Risques, Mesures, Validation.
+# DPIA Template
+Contexte, Flux de données, Risques, Mesures, Validation.

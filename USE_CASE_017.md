@@ -1,2 +1,2 @@
 # Cas d’usage 017
-Description, Bénéfices, Métriques, Risques.
+Contexte, bénéfices, risques, métriques, garde-fous.

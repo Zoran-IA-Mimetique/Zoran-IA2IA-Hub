@@ -1,1 +1,1 @@
-Plan d’expérience; critères de succès; réplication par tiers.
+Étapes: protocole, dataset public, harness tiers, rapport signé, réplication multi-sites.

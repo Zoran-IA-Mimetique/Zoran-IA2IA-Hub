@@ -1,2 +1,2 @@
 # Cas d’usage 008
-Description, Bénéfices, Métriques, Risques.
+Contexte, bénéfices, risques, métriques, garde-fous.

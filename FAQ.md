@@ -1,2 +1,2 @@
-- Qu’est-ce que IA↔IA ? Voir `IA2IA_DEFINITION.md`.
-- Où est la CI ? Voir `CI_GITHUB_ACTIONS.yml` et `HOW_TO_PLACE_CI.md`.
+- Q: La preuve de cognition ? A: Exiger études indépendantes.
+- Q: Les glyphes ? A: Un protocole, pas une preuve de pensée.

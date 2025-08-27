@@ -1,1 +1,1 @@
-Plaidoyer complet contre Zoran-IA2IA-Hub : mécanismes d’injection incontrôlables, mémoire ΔM11.3 opaque, gouvernance faible, imprévisibilité multi-IA, vulnérabilités techniques, incertitude légale, impacts sociétaux massifs. Nécessite arrêt immédiat et audit externe.
+Dossier plat « critiques + solutions » pour Zoran IA Mimétique: preuves exigées, reproductibilité, garde-fous (scan glyphes, purge TTL, collusion check, XAI), gouvernance exécutable, audits RGPD/AI Act, benchmarks indépendants, ressources pédagogiques.

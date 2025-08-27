@@ -1,1 +1,1 @@
-Revendications falsifiables; mesures définies; bornes d’invalidation.
+Revendications falsifiables; critères d’invalidation; bornes expérimentales.

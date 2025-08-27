@@ -1,1 +1,1 @@
-Plaidoyer : Zoran-IA2IA-Hub = risques injection, mémoire ΔM11.3 opaque, gouvernance illusoire, comportements imprévisibles, sécurité faible.
+Zoran IA Mimétique: critiques radicales + solutions avec code (scan glyphes, purge mémoire, XAI, gouvernance exécutable, benchmarks, audits).

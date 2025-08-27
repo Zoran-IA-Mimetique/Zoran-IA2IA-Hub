@@ -1,3 +1,1 @@
-- IA↔IA: interaction machine↔machine (messages, outils, consensus)
-- ΔM11.3: garde de rollback/stabilité
-- XAI: explicabilité
+- Cognition, Communication, ΔM11.3, XAI, Fairness, Reproductibilité.

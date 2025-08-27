@@ -1,0 +1,4 @@
+axis,metric,unit
+latency,p95,ms
+coherence,score,0-1
+rollback,rate,%

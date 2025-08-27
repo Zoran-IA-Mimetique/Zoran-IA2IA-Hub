@@ -1,1 +1,1 @@
-Bench parse, latence, rollback rate, idempotence.
+Comparer latence/cohérence/rollback vs projets analogues; publier scripts & jeux publics.

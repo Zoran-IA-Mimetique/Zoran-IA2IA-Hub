@@ -1,1 +1,1 @@
-Mapping non exhaustif entre contrôles et artefacts fournis.
+# ISO/IEC 42001 Mapping — ébauche
