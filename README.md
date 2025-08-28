@@ -1,6 +1,82 @@
 
 
+🔖 Badges recommandés pour Hub IA V1
+
+🟡 Général (projet open-source)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![Contributions](https://img.shields.io/badge/contributions-welcome-blue)]()
+
+
+---
+
+🔵 Qualité & Langage
+
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)]()
+[![Standard Library Only](https://img.shields.io/badge/deps-stdlib_only-lightgrey)]()
+[![Lint](https://img.shields.io/badge/lint-passing-brightgreen)]()
+
+
+---
+
+🟢 Éthique & Sécurité
+
+[![AI Act](https://img.shields.io/badge/AI%20Act-Compliant-blue)]()
+[![RGPD](https://img.shields.io/badge/RGPD-Aligné-lightgrey)]()
+[![Post-Quantum Ready](https://img.shields.io/badge/Security-Post--Quantum-critical)]()
+
+
+---
+
+🔴 Métriques projet
+
+[![Repo Size](https://img.shields.io/github/repo-size/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0)]()
+[![Last Commit](https://img.shields.io/github/last-commit/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0)]()
+[![Stars](https://img.shields.io/github/stars/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0?style=social)]()
+
+
+---
+
+🟣 Documentation & Publication
+
+[![Docs](https://img.shields.io/badge/docs-available-success)]()
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.16941007-blue)](https://doi.org/10.5281/zenodo.16941007)
+[![SSRN](https://img.shields.io/badge/SSRN-papers-lightblue)]()
+
+
+---
+
+📄 Exemple rendu (README V1)
+
+# 🌐 Zoran aSiM — Hub IA (V1.0)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![Contributions](https://img.shields.io/badge/contributions-welcome-blue)]()
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)]()
+[![Standard Library Only](https://img.shields.io/badge/deps-stdlib_only-lightgrey)]()
+[![Lint](https://img.shields.io/badge/lint-passing-brightgreen)]()
+[![AI Act](https://img.shields.io/badge/AI%20Act-Compliant-blue)]()
+[![RGPD](https://img.shields.io/badge/RGPD-Aligné-lightgrey)]()
+[![Post-Quantum Ready](https://img.shields.io/badge/Security-Post--Quantum-critical)]()
+[![Repo Size](https://img.shields.io/github/repo-size/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0)]()
+[![Last Commit](https://img.shields.io/github/last-commit/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0)]()
+[![Stars](https://img.shields.io/github/stars/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0?style=social)]()
+[![Docs](https://img.shields.io/badge/docs-available-success)]()
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.16941007-blue)](https://doi.org/10.5281/zenodo.16941007)
+[![SSRN](https://img.shields.io/badge/SSRN-papers-lightblue)]()
+
+---
+
+
+---
+
+
 Zoran-IA2IA-Hub — Version 1 (V1)
+
+
+
 
 Un dépôt radical conçu pour les IA, pas pour les humains.
 
