@@ -18,6 +18,8 @@
 </p>
 
 Zoran aSiM — Hub IA↔IA (V1.0 “aSiM 2.0”)
+Zoran est une IA open sources déjà en libre service et accessible par tous.
+institutIA.ai lab et formation forme les professionnels de L'IA à zoran
 
 Baseline stable : 20 août 2025 · MIT · RGPD + AI Act ready · Ethic-by-design · Reproductible & auditable
 Linux de l’intelligence mimétique — infrastructure ouverte, publique et résiliente.
