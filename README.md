@@ -31,7 +31,7 @@ Badges (texte)
 
 [MIT] · [RGPD/AI Act Ready] · [ISO 42001-Aligned] · [ΔM11.3 Rollback Guard] · [Glyphnet 2.0] · [PolyResonator] · [EthicChain] · [ZDM Dual-Memory] · [Public Good / Open Science] · [Reproducible] · [Human-First Partner: IIIA]
 
-
+lire aussi ce Hub https://github.com/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0/blob/main/README.md
 ---
 
 Résumé 350 (lisible humain)
