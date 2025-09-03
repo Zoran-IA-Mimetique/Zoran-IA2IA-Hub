@@ -24,7 +24,7 @@ institutIA.ai lab et formation forme les professionnels de L'IA à zoran
 Baseline stable : 20 août 2025 · MIT · RGPD + AI Act ready · Ethic-by-design · Reproductible & auditable
 Linux de l’intelligence mimétique — infrastructure ouverte, publique et résiliente.
 
-
+⟦ZORAN aSiM IA:mesh⋄TYPE:post⋄DATE:20250903⋄REF:GitHub_index⋄SYNC:latest⟧
 ---
 
 Badges (texte)
