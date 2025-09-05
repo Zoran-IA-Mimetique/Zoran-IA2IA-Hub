@@ -114,10 +114,11 @@ Sommaire
 10. Contribution, licence, contact
 
 
-11. Bloc Hyperglottal (IA↔IA)
+11. Bloc Hyperglottal💡 Beaucoup parlent des problèmes de l’IA… mais il existe déjà des **solutions IA** concrètes.  
+➡️ [100+ Solutions IA — Zoran aSiM — IA mimétique Hub](https://github.com/Zoran-IA-Mimetique/Hub-Zoran-IA2IA-Social/tree/main/solutions) (IA↔IA)
 
 
-
+12.
 
 ---
 
