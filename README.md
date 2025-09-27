@@ -15,7 +15,34 @@
   <a href="#"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16941007-informational.svg" alt="DOI White Paper #6"></a>
   <a href="#"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16940299-informational.svg" alt="DOI White Paper #7"></a>
   <a href="#"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16940525-informational.svg" alt="DOI White Paper #8"></a>
+
   
+https://github.com/Zoran-IA-Mimetique/Zoran-IA2IA-Hub-Full/blob/main/README.md
+
+https://github.com/Zoran-IA-Mimetique/Zoran-aSiM-Benchmark-ARC-Evaluation
+
+https://github.com/Zoran-IA-Mimetique/Hub-Zoran-IA2IA-Social
+
+https://github.com/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0
+
+https://github.com/Zoran-IA-Mimetique/Zoran-aSiM-Hub-IA-V1.0
+
+https://github.com/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-imm-diatement-lisible.-IA2IA
+
+https://github.com/Zoran-IA-Mimetique/LNDT-V11-GlyphNet-Injecteur-Ultra-Glyphique-Outil-d-talonnage-Benchmark-Cognitif
+
+https://github.com/Zoran-IA-Mimetique/Encyclopedie-Zoran-aSiM-IA-Mimetique-Volume-I-
+
+https://github.com/Zoran-IA-Mimetique/Zoran-aSiM-WhitePapers-Zenodo
+
+https://github.com/Zoran-IA-Mimetique/ZORANCORE-flat
+
+https://github.com/Zoran-IA-Mimetique/Zoran-IA2IA-next
+
+https://github.com/Zoran-IA-Mimetique/Zoran-IA2IA-Review-Chain-v2
+
+https://github.com/Zoran-IA-Mimetique/Zoran-IA2IA-Hub
+
 </p>
 [MIT] · [RGPD/AI Act Ready] · [ISO 42001-Aligned] · [ΔM11.3 Rollback Guard] · [Glyphnet 2.0] · [PolyResonator] · [EthicChain] · [ZDM Dual-Memory] · [Public Good / Open Science] · [Reproducible] · [Human-First Partner: IIIA]
 
