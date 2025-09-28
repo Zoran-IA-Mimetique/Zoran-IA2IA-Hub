@@ -16,6 +16,7 @@
   <a href="#"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16940299-informational.svg" alt="DOI White Paper #7"></a>
   <a href="#"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16940525-informational.svg" alt="DOI White Paper #8"></a>
 
+https://github.com/Zoran-IA-Mimetique/zoran_v11_release.zip
   
 https://github.com/Zoran-IA-Mimetique/Zoran-IA2IA-Hub-Full/blob/main/README.md
 
